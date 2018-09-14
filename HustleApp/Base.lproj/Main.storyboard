@@ -63,7 +63,12 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                     <connections>
+                        <outlet property="cloudHolder" destination="Lg2-nx-UmK" id="2sS-Qp-Fyf"/>
                         <outlet property="darkBlueBG" destination="GwP-Qw-jl6" id="ktF-15-qPS"/>
+                        <outlet property="hustleLbl" destination="tsi-OS-wVw" id="nmN-v6-bFs"/>
+                        <outlet property="onLbl" destination="xLD-FF-dRX" id="frS-dY-GTR"/>
+                        <outlet property="powerBtn" destination="UNf-cK-fve" id="RrE-R0-CyJ"/>
+                        <outlet property="rocket" destination="emk-ed-Sl7" id="2jk-OW-t72"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
